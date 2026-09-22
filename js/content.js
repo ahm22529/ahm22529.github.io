@@ -150,13 +150,13 @@ const APPS = [
       name: "MyFawry",
       role: "Android Developer · Fawry · 10M+ installs",
       blurb:
-        "My role: I added payment services, improved performance, and worked APIs and sockets in a large Android team. 10M+ Play Store installs, 170K+ reviews.",
+        "I worked on this national payments super-app in a large Android team (10M+ Play Store installs, 170K+ reviews). I was responsible for adding payment services, performance, and production APIs and sockets.",
     },
     ar: {
       name: "MyFawry",
       role: "Android Developer · Fawry · 10M+ installs",
       blurb:
-        "دوري: ضفت payment services، حسّنت الأداء، واشتغلت APIs و sockets في تيم Android كبير. 10M+ تحميل، 170K+ تقييم.",
+        "اشتغلت على super-app الـ Payments في تيم Android كبير (10M+ تحميل، 170K+ تقييم). كنت مسؤول عن إضافة payment services، الأداء، و APIs و sockets.",
     },
   },
   {
@@ -170,13 +170,13 @@ const APPS = [
       name: "Artistic Theatre House",
       role: "Flutter · Nofal SEO · 10K+ downloads",
       blurb:
-        "My role: I owned Firebase Auth for login, plus notifications and video playback for shows, listings, and booking. 10K+ Play Store downloads.",
+        "I worked on this Flutter app for shows, listings, and booking (10K+ Play Store downloads). I was responsible for Firebase Auth, notifications, and video playback.",
     },
     ar: {
       name: "Artistic Theatre House",
       role: "Flutter · Nofal SEO · 10K+ downloads",
       blurb:
-        "دوري: كنت مسؤول عن Firebase Auth للّوجين، وعن notifications وتشغيل الفيديو للعروض والحجز. 10K+ تحميل على Google Play.",
+        "اشتغلت على التطبيق ده: عروض، قوائم، وحجز (10K+ تحميل). كنت مسؤول عن Firebase Auth، notifications، وتشغيل الفيديو.",
     },
   },
   {
@@ -190,13 +190,13 @@ const APPS = [
       name: "SEDA",
       role: "Flutter · Nofal SEO · 1K+ downloads",
       blurb:
-        "My role: I owned live tracking on the passenger app and SEDA Driver, plus Payments with Paymob. 1K+ Play Store downloads.",
+        "I worked on this ride-hailing product in Flutter (1K+ downloads). I was responsible for live tracking on the passenger app and SEDA Driver, and for Payments with Paymob.",
     },
     ar: {
       name: "SEDA",
       role: "Flutter · Nofal SEO · 1K+ downloads",
       blurb:
-        "دوري: كنت مسؤول عن live tracking في تطبيق الراكب و SEDA Driver، وعن Payments مع Paymob. 1K+ تحميل على Google Play.",
+        "اشتغلت على منتج التوصيل ده (1K+ تحميل). كنت مسؤول عن live tracking في تطبيق الراكب و SEDA Driver، وعن Payments مع Paymob.",
     },
   },
   {
@@ -210,13 +210,13 @@ const APPS = [
       name: "SEDA Driver",
       role: "Flutter · Nofal SEO · 1K+ downloads",
       blurb:
-        "My role: I owned live tracking, matching, and realtime location on the driver app. 1K+ Play Store downloads.",
+        "I worked on the driver app for SEDA (1K+ downloads). I was responsible for live tracking, matching, and realtime location.",
     },
     ar: {
       name: "SEDA Driver",
       role: "Flutter · Nofal SEO · 1K+ downloads",
       blurb:
-        "دوري: كنت مسؤول عن live tracking والـ matching وموقع السواق realtime. 1K+ تحميل على Google Play.",
+        "اشتغلت على تطبيق السائق لـ SEDA (1K+ تحميل). كنت مسؤول عن live tracking والـ matching وموقع السواق realtime.",
     },
   },
   {
@@ -270,13 +270,13 @@ const APPS = [
       name: "Sky Academy",
       role: "Flutter · Nofal SEO",
       blurb:
-        "My role: I built course screens, the learning flow, and notifications, and I owned the release gate — nothing went live on the store until I checked it.",
+        "I worked on this Flutter learning app. I was responsible for course screens, the learning flow, notifications, and the release gate — nothing went live on the store until I checked it.",
     },
     ar: {
       name: "Sky Academy",
       role: "Flutter · Nofal SEO",
       blurb:
-        "دوري: بنيت شاشات الـ courses وفلو التعلم و notifications، وكنت مسؤول عن بوابة الـ release — مفيش حاجة بتنزل الستور غير لما أراجعها.",
+        "اشتغلت على تطبيق التعلّم ده. كنت مسؤول عن شاشات الـ courses وفلو التعلم و notifications، وعن بوابة الـ release — مفيش حاجة بتنزل الستور غير لما أراجعها.",
     },
   },
   {
@@ -346,13 +346,13 @@ const APPS = [
       name: "RAWA LIVE",
       role: "Flutter lead · Glitch Fix · 1K+ downloads",
       blurb:
-        "My role: Flutter lead — Architecture, task distribution, Flutter ↔ Kotlin channels, Agora, sockets, background services, Sentry, and publishing to Play + App Store. 1K+ Play Store downloads.",
+        "I worked on this as Flutter lead at Glitch Fix (1K+ downloads). I was responsible for Architecture, task distribution, Flutter ↔ Kotlin channels, Agora, sockets, background services, Sentry, and publishing to Play + App Store.",
     },
     ar: {
       name: "RAWA LIVE",
       role: "Flutter lead · Glitch Fix · 1K+ downloads",
       blurb:
-        "دوري: Flutter lead — Architecture، توزيع الـ tasks، channels بين Flutter و Kotlin، Agora، sockets، background services، Sentry، ونشر Play و App Store. 1K+ تحميل.",
+        "اشتغلت عليه Flutter lead في Glitch Fix (1K+ تحميل). كنت مسؤول عن Architecture، توزيع الـ tasks، channels بين Flutter و Kotlin، Agora، sockets، background services، Sentry، ونشر Play و App Store.",
     },
   },
 ];

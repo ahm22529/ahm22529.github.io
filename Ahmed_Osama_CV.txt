@@ -15,40 +15,45 @@ PROFESSIONAL EXPERIENCE
 
 Glitch Fix — Mobile Development Lead (Flutter)
 Cairo, Egypt | December 2025 – Present
-- Flutter lead: owned Architecture, Agile task distribution, Agora, sockets, background services, Sentry, and platform channels (Flutter ↔ Kotlin).
-- Owned publishing to Google Play and App Store for 5 production apps.
+- Flutter lead on the company’s production apps. I owned Architecture, Agile task distribution, sockets, Agora, background services, Sentry, and platform channels (Flutter ↔ Kotlin).
+- I was responsible for publishing to Google Play and App Store for 5 production apps.
 
 Fawry — Android Developer
 Cairo, Egypt | June 2024 – November 2025
-- Native Android (Kotlin) on MyFawry in a large team: 10M+ Play Store installs and 170K+ reviews.
-- Added payment services, improved performance, and worked with APIs and sockets.
+- I worked as a native Android (Kotlin) developer on MyFawry in a large team. National payments super-app: 10M+ Play Store installs and 170K+ reviews.
+- I was responsible for adding payment services, improving performance, and working production APIs and sockets.
 
 Nofal SEO — Flutter Developer
 Egypt | 2023 – May 2024
-- Shipped 4 production apps to Google Play.
-- Owned Pusher realtime and Payments on most apps; owned live tracking on the ride-hailing product (SEDA / SEDA Driver).
+- Flutter developer. We shipped 4 production apps to Google Play.
+- I was responsible for Pusher realtime and Payments on most of those apps, and for live tracking on the ride-hailing product (SEDA / SEDA Driver).
 
 SELECTED PROJECTS
 
 SEDA — Flutter · Nofal SEO · Google Play · 1K+ downloads
-- My role: owned live tracking on passenger + SEDA Driver (1K+ downloads; matching and realtime location).
-- My role: owned Payments and Paymob checkout.
+- I worked on this ride-hailing product in Flutter: the passenger app (1K+ Play Store downloads) and SEDA Driver (1K+ downloads).
+- I was responsible for live tracking on both apps — matching, realtime location, and keeping passenger and driver location in sync.
+- I was responsible for Payments. I owned the Paymob integration and ride checkout.
 
 MyFawry — Android (Kotlin) · Fawry · 10M+ Play Store installs · 170K+ reviews
-- My role: added payment services in a large Android team on a national payments super-app.
-- My role: improved performance and worked production APIs and sockets.
+- I worked on MyFawry as a native Android (Kotlin) developer in a large team, on a national payments super-app (10M+ Play Store installs, 170K+ reviews).
+- I was responsible for adding new payment services into the live production app.
+- I was responsible for performance work and for production APIs and sockets.
 
 Artistic Theatre House (البيت الفني للمسرح) — Flutter · Nofal SEO · Google Play · 10K+ downloads
-- My role: owned Firebase Auth for login and the account flow.
-- My role: owned notifications and video for shows, listings, and booking.
+- I worked on this Flutter app for shows, listings, and booking (10K+ Play Store downloads).
+- I was responsible for Firebase Auth — login and the full account flow.
+- I was responsible for notifications and video playback used across shows, listings, and booking.
 
 Sky Academy — Flutter · Nofal SEO · Google Play
-- My role: built course screens, the learning flow, and notifications.
-- My role: owned the release gate — no store release until I checked it.
+- I worked on this Flutter learning app: courses, training paths, and in-app updates.
+- I was responsible for the course content screens, the learning flow, and notifications.
+- I was responsible for the release gate. Nothing went live on the store until I checked the build.
 
 RAWA LIVE — Flutter lead · Glitch Fix · Google Play · 1K+ downloads
-- My role: Flutter lead — tasks, Architecture, and publishing to Google Play and App Store (5 apps).
-- My role: Flutter ↔ Kotlin channels; owned Agora, sockets, background services, and Sentry after release.
+- I worked on RAWA LIVE as Flutter lead at Glitch Fix (1K+ Play Store downloads; also published on the App Store). Rooms, gifts, games, and realtime.
+- I was responsible for Architecture, Agile task distribution, and publishing to Google Play and App Store. At Glitch Fix I owned publishing for 5 production apps.
+- I was responsible for platform channels between Flutter and Kotlin, Agora, sockets, background services, and Sentry after release.
 
 EDUCATION
 B.Sc., Faculty of Electronic Engineering | 2020 – 2025
