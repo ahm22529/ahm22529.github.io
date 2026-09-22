@@ -288,13 +288,13 @@ const APPS = [
     cta: { en: "Desktop ERP", ar: "Desktop ERP" },
     tags: ["Desktop", "ERP", "Print"],
     en: {
-      name: "Al-Maamel",
+      name: "المعامل",
       role: "Desktop ERP · IVF / ICSI laboratories",
       blurb:
         "I worked on this desktop ERP used to run IVF / ICSI laboratories. I was responsible for several features, including the Embryology Lab module, and for the print integration (lab reports and forms).",
     },
     ar: {
-      name: "Al-Maamel",
+      name: "المعامل",
       role: "Desktop ERP · معامل حقن مجهري",
       blurb:
         "اشتغلت على Desktop ERP بيدير معامل الحقن المجهري. كنت مسؤول عن كذا feature، منها مختبر الأجنّة، وعن integration الطباعة (تقارير وفورمات المعمل).",

@@ -63,7 +63,7 @@
 
     APPS.forEach((app, i) => {
       const copy = app[lang];
-      const name = app.en.name;
+      const name = copy.name;
       const playLabel = I18N[lang].play;
       const soonLabel = app.cta?.[lang] || I18N[lang].soon;
       const tags = app.tags.map((tag) => `<span class="tag">${tag}</span>`).join("");
