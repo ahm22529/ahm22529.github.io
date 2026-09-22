@@ -65,7 +65,7 @@
       const copy = app[lang];
       const name = app.en.name;
       const playLabel = I18N[lang].play;
-      const soonLabel = I18N[lang].soon;
+      const soonLabel = app.cta?.[lang] || I18N[lang].soon;
       const tags = app.tags.map((tag) => `<span class="tag">${tag}</span>`).join("");
       const link = app.play
         ? `<a class="btn btn-ghost" href="${app.play}" target="_blank" rel="noreferrer">${playLabel}</a>`

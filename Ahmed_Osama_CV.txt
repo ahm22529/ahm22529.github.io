@@ -9,7 +9,7 @@ PROFESSIONAL SUMMARY
 Mid-level Flutter developer with 3+ years shipping production Android and iOS apps to Google Play. Owned Flutter Architecture, Agile, sockets, Payments, live tracking, Sentry, and platform channels. Native Android (Kotlin) on MyFawry (10M+ Play Store installs). Open to a mid-level Flutter role.
 
 TECHNICAL SKILLS
-Flutter, Dart, Android, Kotlin, iOS (Flutter), Clean Architecture, Cubit, BLoC, REST APIs, Git, WebSockets, Pusher, Agora, Paymob, Firebase, live tracking, payment gateways, platform channels, MethodChannel, background services, Sentry, Agile, Google Play, App Store.
+Flutter, Dart, Android, Kotlin, iOS (Flutter), Clean Architecture, Cubit, BLoC, REST APIs, Git, WebSockets, Pusher, Agora, Paymob, Firebase, live tracking, payment gateways, platform channels, MethodChannel, background services, Sentry, Agile, Desktop, ERP, Google Play, App Store.
 
 PROFESSIONAL EXPERIENCE
 
@@ -47,8 +47,14 @@ SEDA — Flutter · Nofal SEO · Google Play · 1K+ downloads
 - I was responsible for Payments. I owned the Paymob integration and ride checkout.
 
 OtlobGas — Flutter · Nofal SEO · Google Play · 10K+ downloads
+https://play.google.com/store/apps/details?id=com.otlobgas.customer&pcampaignid=web_share
 - I worked on this Flutter app for on-demand gas cylinder ordering (10K+ Play Store downloads).
 - I was responsible for Payments and realtime on the ordering flow.
+
+Al-Maamel — Desktop ERP · IVF / ICSI laboratories
+- I worked on this desktop ERP used to run IVF / ICSI laboratories.
+- I was responsible for several features, including the Embryology Lab module.
+- I was responsible for the print integration — laboratory reports and forms from the desktop app.
 
 WatFil Client — Flutter · Glitch Fix · Google Play · 1K+ downloads
 - I owned this app myself. Flutter marketplace connecting customers with local water companies (1K+ Play Store downloads).

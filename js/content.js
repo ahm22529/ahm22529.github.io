@@ -264,7 +264,7 @@ const APPS = [
     slug: "otlobgas",
     icon: "assets/apps/otlobgas.svg",
     tint: "#ea580c",
-    play: "https://play.google.com/store/apps/details?id=com.otlobgas.customer",
+    play: "https://play.google.com/store/apps/details?id=com.otlobgas.customer&pcampaignid=web_share",
     tags: ["Flutter", "Payments", "Pusher"],
     en: {
       name: "OtlobGas",
@@ -277,6 +277,27 @@ const APPS = [
       role: "Flutter · Nofal SEO · 10K+ downloads",
       blurb:
         "اشتغلت على تطبيق طلب أسطوانة الغاز (10K+ تحميل). كنت مسؤول عن Payments و realtime في فلو الطلب.",
+    },
+  },
+  {
+    featured: false,
+    slug: "almaamel",
+    icon: "assets/apps/almaamel.svg",
+    tint: "#0e7490",
+    play: "",
+    cta: { en: "Desktop ERP", ar: "Desktop ERP" },
+    tags: ["Desktop", "ERP", "Print"],
+    en: {
+      name: "Al-Maamel",
+      role: "Desktop ERP · IVF / ICSI laboratories",
+      blurb:
+        "I worked on this desktop ERP used to run IVF / ICSI laboratories. I was responsible for several features, including the Embryology Lab module, and for the print integration (lab reports and forms).",
+    },
+    ar: {
+      name: "Al-Maamel",
+      role: "Desktop ERP · معامل حقن مجهري",
+      blurb:
+        "اشتغلت على Desktop ERP بيدير معامل الحقن المجهري. كنت مسؤول عن كذا feature، منها مختبر الأجنّة، وعن integration الطباعة (تقارير وفورمات المعمل).",
     },
   },
   {
