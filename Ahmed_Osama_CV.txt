@@ -36,7 +36,7 @@ MyFawry — Android (Kotlin) · Fawry · 10M+ Play Store installs · 170K+ revie
 - I was responsible for adding new payment services into the live production app.
 - I was responsible for performance work and for production APIs and sockets.
 
-Artistic Theatre House (البيت الفني للمسرح) — Flutter · Nofal SEO · Google Play · 10K+ downloads
+Artistic Theatre House — Flutter · Nofal SEO · Google Play · 10K+ downloads
 - I worked on this Flutter app for shows, listings, and booking (10K+ Play Store downloads).
 - I was responsible for Firebase Auth — login and the full account flow.
 - I was responsible for notifications and video playback used across shows, listings, and booking.
@@ -66,6 +66,3 @@ RAWA LIVE — Flutter lead · Glitch Fix · Google Play · 1K+ downloads
 
 EDUCATION
 B.Sc., Faculty of Electronic Engineering | 2020 – 2025
-
-LANGUAGES
-Arabic (native). English (professional working).
