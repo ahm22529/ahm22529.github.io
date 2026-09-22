@@ -16,6 +16,7 @@ PROFESSIONAL EXPERIENCE
 Glitch Fix — Mobile Development Lead (Flutter)
 Cairo, Egypt | December 2025 – Present
 - Flutter lead on the company’s production apps. I owned Architecture, Agile task distribution, sockets, Agora, background services, Sentry, and platform channels (Flutter ↔ Kotlin).
+- I solely owned WatFil Client and WatFil Staff in Flutter.
 - I was responsible for publishing to Google Play and App Store for 5 production apps.
 
 Fawry — Android Developer
@@ -30,11 +31,6 @@ Egypt | 2023 – May 2024
 
 SELECTED PROJECTS
 
-SEDA — Flutter · Nofal SEO · Google Play · 1K+ downloads
-- I worked on this ride-hailing product in Flutter: the passenger app (1K+ Play Store downloads) and SEDA Driver (1K+ downloads).
-- I was responsible for live tracking on both apps — matching, realtime location, and keeping passenger and driver location in sync.
-- I was responsible for Payments. I owned the Paymob integration and ride checkout.
-
 MyFawry — Android (Kotlin) · Fawry · 10M+ Play Store installs · 170K+ reviews
 - I worked on MyFawry as a native Android (Kotlin) developer in a large team, on a national payments super-app (10M+ Play Store installs, 170K+ reviews).
 - I was responsible for adding new payment services into the live production app.
@@ -44,6 +40,19 @@ Artistic Theatre House (البيت الفني للمسرح) — Flutter · Nofal
 - I worked on this Flutter app for shows, listings, and booking (10K+ Play Store downloads).
 - I was responsible for Firebase Auth — login and the full account flow.
 - I was responsible for notifications and video playback used across shows, listings, and booking.
+
+SEDA — Flutter · Nofal SEO · Google Play · 1K+ downloads
+- I worked on this ride-hailing product in Flutter: the passenger app (1K+ Play Store downloads) and SEDA Driver (1K+ downloads).
+- I was responsible for live tracking on both apps — matching, realtime location, and keeping passenger and driver location in sync.
+- I was responsible for Payments. I owned the Paymob integration and ride checkout.
+
+WatFil Client — Flutter · Glitch Fix · Google Play · 1K+ downloads
+- I owned this app myself. Flutter marketplace connecting customers with local water companies (1K+ Play Store downloads).
+- I was responsible for the full client product: catalog, orders, and maintenance requests.
+
+WatFil Staff — Flutter · Glitch Fix · Google Play
+- I owned this app myself. Staff ERP for WatFil water companies.
+- I was responsible for GPS attendance, leave requests and approvals, missions, and permissions.
 
 Sky Academy — Flutter · Nofal SEO · Google Play
 - I worked on this Flutter learning app: courses, training paths, and in-app updates.

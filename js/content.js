@@ -225,18 +225,38 @@ const APPS = [
     icon: "assets/apps/watfil.svg",
     tint: "#0284c7",
     play: "https://play.google.com/store/apps/details?id=com.watfil.client",
-    tags: ["Flutter", "Architecture", "Payments"],
+    tags: ["Flutter", "Architecture", "Marketplace"],
     en: {
       name: "WatFil Client",
-      role: "Flutter lead · Glitch Fix",
+      role: "Owned solo · Flutter · Glitch Fix · 1K+ downloads",
       blurb:
-        "Marketplace that connects people with local water companies: catalog, orders, and maintenance. I owned Architecture and delivery of the client app.",
+        "I owned this app myself. Marketplace that connects customers with local water companies: catalog, orders, and maintenance. 1K+ Play Store downloads.",
     },
     ar: {
       name: "WatFil Client",
-      role: "Flutter lead · Glitch Fix",
+      role: "مسؤول لوحدي · Flutter · Glitch Fix · 1K+ downloads",
       blurb:
-        "Marketplace بيوصل العميل بشركات المياه: catalog، طلبات، وصيانة. كنت مسؤول عن Architecture و Delivery لتطبيق العميل.",
+        "كنت مسؤول عن التطبيق ده لوحدي. Marketplace بيوصل العميل بشركات المياه: catalog، طلبات، وصيانة. 1K+ تحميل على Google Play.",
+    },
+  },
+  {
+    featured: false,
+    slug: "watfilstaff",
+    icon: "assets/apps/watfilstaff.svg",
+    tint: "#0f766e",
+    play: "https://play.google.com/store/apps/details?id=com.devtonesoft.com.watfil.watfilstaff",
+    tags: ["Flutter", "ERP", "HR"],
+    en: {
+      name: "WatFil Staff",
+      role: "Owned solo · Flutter · Glitch Fix",
+      blurb:
+        "I owned this app myself. Staff ERP for WatFil companies: GPS attendance, leave requests and approvals, missions, and permissions.",
+    },
+    ar: {
+      name: "WatFil Staff",
+      role: "مسؤول لوحدي · Flutter · Glitch Fix",
+      blurb:
+        "كنت مسؤول عن التطبيق ده لوحدي. ERP للموظفين في شركات WatFil: حضور GPS، طلبات الإجازات والموافقات، المأموريات، والأذونات.",
     },
   },
   {
@@ -365,6 +385,7 @@ const EXPERIENCE = [
       dates: "Dec 2025 — Present",
       points: [
         "My role: Flutter lead — I owned Architecture and delivery across the company’s apps.",
+        "I solely owned WatFil Client and WatFil Staff (Flutter).",
         "My role: I owned publishing to Google Play and App Store for 5 production apps.",
         "My role: I owned sockets, Agile task distribution, Sentry after release, and Flutter ↔ Kotlin platform channels.",
       ],
@@ -375,6 +396,7 @@ const EXPERIENCE = [
       dates: "ديسمبر 2025 — الآن",
       points: [
         "دوري: Flutter lead — كنت مسؤول عن Architecture و Delivery في تطبيقات الشركة.",
+        "كنت مسؤول لوحدي عن WatFil Client و WatFil Staff (Flutter).",
         "دوري: كنت مسؤول عن نشر 5 تطبيقات على Google Play و App Store.",
         "دوري: sockets، توزيع الـ tasks، Agile، Sentry بعد الـ release، و platform channels بين Flutter و Kotlin.",
       ],
