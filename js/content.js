@@ -268,15 +268,15 @@ const APPS = [
     tags: ["Flutter", "Payments", "Pusher"],
     en: {
       name: "OtlobGas",
-      role: "Flutter · Nofal SEO",
+      role: "Flutter · Nofal SEO · 10K+ downloads",
       blurb:
-        "My role: Payments and realtime on the gas-cylinder ordering flow. One of 4 apps we shipped at Nofal SEO.",
+        "I worked on this Flutter app for on-demand gas cylinder ordering (10K+ Play Store downloads). I was responsible for Payments and realtime on the ordering flow.",
     },
     ar: {
       name: "OtlobGas",
-      role: "Flutter · Nofal SEO",
+      role: "Flutter · Nofal SEO · 10K+ downloads",
       blurb:
-        "دوري: Payments و realtime في فلو طلب أسطوانة الغاز. من الـ 4 تطبيقات اللي رفعناهم في Nofal SEO.",
+        "اشتغلت على تطبيق طلب أسطوانة الغاز (10K+ تحميل). كنت مسؤول عن Payments و realtime في فلو الطلب.",
     },
   },
   {
