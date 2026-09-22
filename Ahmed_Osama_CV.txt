@@ -1,0 +1,57 @@
+AHMED OSAMA
+Mid-Level Flutter Developer
+Cairo, Egypt | 01132230704 | +20 113 223 0704
+ahmedehdeeb@gmail.com
+linkedin.com/in/ahmed-osama-68123637a
+github.com/ahm22529
+
+PROFESSIONAL SUMMARY
+Mid-level Flutter developer with 3+ years shipping production Android and iOS apps to Google Play. Owned Flutter Architecture, Agile, sockets, Payments, live tracking, Sentry, and platform channels. Native Android (Kotlin) on MyFawry (10M+ Play Store installs). Open to a mid-level Flutter role.
+
+TECHNICAL SKILLS
+Flutter, Dart, Android, Kotlin, iOS (Flutter), Clean Architecture, Cubit, BLoC, REST APIs, Git, WebSockets, Pusher, Agora, Paymob, Firebase, live tracking, payment gateways, platform channels, MethodChannel, background services, Sentry, Agile, Google Play, App Store.
+
+PROFESSIONAL EXPERIENCE
+
+Glitch Fix — Mobile Development Lead (Flutter)
+Cairo, Egypt | December 2025 – Present
+- Flutter lead: owned Architecture, Agile task distribution, Agora, sockets, background services, Sentry, and platform channels (Flutter ↔ Kotlin).
+- Owned publishing to Google Play and App Store for 5 production apps.
+
+Fawry — Android Developer
+Cairo, Egypt | June 2024 – November 2025
+- Native Android (Kotlin) on MyFawry in a large team: 10M+ Play Store installs and 170K+ reviews.
+- Added payment services, improved performance, and worked with APIs and sockets.
+
+Nofal SEO — Flutter Developer
+Egypt | 2023 – May 2024
+- Flutter developer on a 4-person team shipping production apps to Google Play.
+- Owned Pusher realtime and Payments on most apps; owned live tracking on the ride-hailing product (SEDA / SEDA Driver).
+
+SELECTED PROJECTS
+
+SEDA — Flutter · Nofal SEO · Google Play
+- Owned live tracking on the passenger app and on SEDA Driver (matching and realtime location).
+- Owned Payments and integrated Paymob for ride checkout.
+
+MyFawry — Android (Kotlin) · Fawry · 10M+ Play Store installs · 170K+ reviews
+- Added new payment services in a large Android team on a national payments super-app.
+- Improved performance and worked production APIs and sockets.
+
+Artistic Theatre House (البيت الفني للمسرح) — Flutter · Nofal SEO · Google Play
+- Owned Firebase Auth for login and the account flow.
+- Owned notifications and video playback for shows, listings, and booking.
+
+Sky Academy — Flutter · Nofal SEO · Google Play
+- Built course content screens, the learning flow, and notifications.
+- Owned the release gate: blocked anything from going live on the store until I checked it.
+
+RAWA LIVE — Flutter lead · Glitch Fix · Google Play
+- Flutter lead: distributed tasks, owned Architecture, and owned publishing to Google Play and App Store.
+- Built platform channels between Flutter and Kotlin. Owned Agora, sockets, background services, and Sentry after release.
+
+EDUCATION
+B.Sc., Faculty of Electronic Engineering | 2020 – 2025
+
+LANGUAGES
+Arabic (native). English (professional working).

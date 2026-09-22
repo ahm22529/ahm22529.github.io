@@ -13,6 +13,14 @@ node serve.js
 
 Open http://localhost:5173
 
+CV (ATS, 1 page):
+
+- HTML: http://localhost:5173/cv.html
+- PDF: `Ahmed_Osama_CV.pdf`
+- Plain text for job portals: `Ahmed_Osama_CV.txt`
+
+Print HTML to PDF: Ctrl+P → Save as PDF → A4 → no headers and footers.
+
 Arabic: http://localhost:5173/?lang=ar
 
 ## Publish on GitHub Pages

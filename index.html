@@ -3,18 +3,18 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Ahmed Osama — Mobile Developer</title>
+    <title>Ahmed Osama — Flutter Developer</title>
     <meta
       name="description"
-      content="Ahmed Osama — Flutter & Android developer. 3 years shipping MyFawry, RAWA LIVE, Otcha, WatFil, SEDA, and more on Google Play."
+      content="Ahmed Osama — Flutter & Android developer. 3 years shipping MyFawry, Artistic Theatre House, SEDA, Sky Academy, RAWA LIVE, and more on Google Play."
     />
     <meta property="og:title" content="Ahmed Osama — Flutter & Android Developer" />
     <meta
       property="og:description"
-      content="Flutter and Android. Payments, realtime, tracking, live voice rooms. Apps on Google Play."
+      content="Flutter and Android. Payments, realtime, tracking. Apps on Google Play."
     />
     <meta property="og:type" content="website" />
-    <meta name="theme-color" content="#070806" />
+    <meta name="theme-color" content="#f4f1ea" />
     <script type="application/ld+json">
       {
         "@context": "https://schema.org",
@@ -38,9 +38,10 @@
       href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans+Arabic:wght@400;500;600;700&family=Outfit:wght@400;500;600;700&family=Syne:wght@700;800&display=swap"
       rel="stylesheet"
     />
-    <link rel="stylesheet" href="css/styles.css" />
+    <link rel="stylesheet" href="css/styles.css?v=hero2" />
   </head>
   <body>
+    <div class="scroll-progress" aria-hidden="true"></div>
     <header class="nav">
       <div class="nav-inner">
         <a class="logo" href="#top">
@@ -66,22 +67,36 @@
 
     <main id="top">
       <section class="wrap hero">
-        <div>
-          <div class="kicker">
+        <div class="hero-copy">
+          <div class="kicker hero-kicker">
             <span class="pulse"></span>
             <span data-i18n="hero.kicker">Flutter & Android Developer · 3 years</span>
           </div>
-          <h1 data-i18n="hero.title">I ship mobile apps people actually open.</h1>
+          <h1 data-i18n="hero.title">I ship Flutter apps people actually open.</h1>
           <p class="lead" data-i18n="hero.lead">
-            From a 4-person Flutter team to Android at Fawry, then mobile architecture at Glitch Fix.
+            Flutter and Android. 3 years in production.
           </p>
+          <ol class="hero-path" aria-label="Career path">
+            <li>
+              <small>Flutter</small>
+              <strong>Nofal SEO</strong>
+            </li>
+            <li>
+              <small>Android</small>
+              <strong>Fawry</strong>
+            </li>
+            <li>
+              <small>Flutter lead</small>
+              <strong>Glitch Fix</strong>
+            </li>
+          </ol>
           <div class="cta-row">
             <a class="btn btn-primary" href="#work" data-i18n="hero.ctaWork">See shipped apps</a>
             <a class="btn btn-ghost" href="mailto:ahmedehdeeb@gmail.com" data-i18n="hero.ctaContact">Email me</a>
           </div>
           <div class="now">
             <b data-i18n="hero.nowLabel">Now</b>
-            <span data-i18n="hero.nowValue">Mobile development lead at Glitch Fix — architecture, Agile, sockets, and Sentry</span>
+            <span data-i18n="hero.nowValue">Flutter lead at Glitch Fix — Architecture, Agile, Sockets, Sentry</span>
           </div>
         </div>
         <div class="stage" aria-hidden="true">
@@ -103,7 +118,7 @@
       </div>
 
       <section class="wrap" id="work">
-        <div class="section-head">
+        <div class="section-head reveal">
           <div class="kicker" data-i18n="work.kicker">Selected work</div>
           <h2 data-i18n="work.title">Apps that left the laptop.</h2>
           <p data-i18n="work.sub">Production products on Google Play.</p>
@@ -113,7 +128,7 @@
       </section>
 
       <section class="wrap" id="experience">
-        <div class="section-head">
+        <div class="section-head reveal">
           <div class="kicker" data-i18n="experience.kicker">Path</div>
           <h2 data-i18n="experience.title">How the stack got serious.</h2>
           <p data-i18n="experience.sub">Started as a junior owning a track.</p>
@@ -122,7 +137,7 @@
       </section>
 
       <section class="wrap" id="skills">
-        <div class="section-head">
+        <div class="section-head reveal">
           <div class="kicker" data-i18n="skills.kicker">Toolkit</div>
           <h2 data-i18n="skills.title">What I actually reach for.</h2>
         </div>
@@ -130,11 +145,11 @@
       </section>
 
       <section class="wrap" id="about">
-        <div class="section-head">
+        <div class="section-head reveal">
           <div class="kicker" data-i18n="about.kicker">About</div>
-          <h2 data-i18n="about.title">A mobile engineer who grew up in shipping.</h2>
+          <h2 data-i18n="about.title">Grew up in production, not in tutorials.</h2>
         </div>
-        <div class="about-block">
+        <div class="about-block reveal">
           <p data-i18n="about.p1"></p>
           <div>
             <p data-i18n="about.p2"></p>
@@ -144,27 +159,40 @@
       </section>
 
       <section class="wrap" id="contact">
-        <div class="contact-box">
+        <div class="contact-box reveal">
           <div>
             <div class="kicker" data-i18n="contact.kicker">Contact</div>
             <h2 data-i18n="contact.title">Let’s build the next one.</h2>
             <p class="lead" data-i18n="contact.lead"></p>
             <div class="contact-lines">
               <a class="mail" href="mailto:ahmedehdeeb@gmail.com">ahmedehdeeb@gmail.com</a>
-              <a class="mail" href="tel:+201132230704">011 3223 0704</a>
+              <a class="mail" href="tel:+201132230704">01132230704</a>
             </div>
             <div class="contact-actions">
-              <a class="btn btn-primary" href="https://wa.me/201132230704" target="_blank" rel="noreferrer" data-i18n="contact.whatsapp">WhatsApp</a>
+              <a class="btn btn-primary" href="https://wa.me/201132230704" target="_blank" rel="noreferrer">WhatsApp</a>
               <button class="btn btn-ghost" id="copy-email" type="button" data-i18n="contact.copy">Copy email</button>
-              <a class="btn btn-ghost" href="https://github.com/ahm22529" target="_blank" rel="noreferrer" data-i18n="contact.github">GitHub</a>
-              <a class="btn btn-ghost" href="https://www.linkedin.com/in/ahmed-osama-68123637a" target="_blank" rel="noreferrer" data-i18n="contact.linkedin">LinkedIn</a>
+              <a class="btn btn-ghost" href="cv.html">CV / Resume</a>
+              <a class="btn btn-ghost" href="https://github.com/ahm22529" target="_blank" rel="noreferrer">GitHub</a>
+              <a class="btn btn-ghost" href="https://www.linkedin.com/in/ahmed-osama-68123637a" target="_blank" rel="noreferrer">LinkedIn</a>
             </div>
           </div>
           <aside class="contact-meta">
-            <p><span data-i18n="hero.nowLabel">Now</span><b>Glitch Fix</b></p>
-            <p>Location<b>Cairo, Egypt</b></p>
-            <p><span data-i18n="contact.phone">Phone</span><b><a href="tel:+201132230704">011 3223 0704</a></b></p>
-            <p>Stack<b>Flutter · Android · Realtime</b></p>
+            <a class="contact-link" href="mailto:ahmedehdeeb@gmail.com">
+              Email
+              <b>ahmedehdeeb@gmail.com</b>
+            </a>
+            <a class="contact-link" href="tel:+201132230704">
+              Phone
+              <b>01132230704</b>
+            </a>
+            <a class="contact-link" href="https://github.com/ahm22529" target="_blank" rel="noreferrer">
+              GitHub
+              <b>github.com/ahm22529</b>
+            </a>
+            <a class="contact-link" href="https://www.linkedin.com/in/ahmed-osama-68123637a" target="_blank" rel="noreferrer">
+              LinkedIn
+              <b>linkedin.com/in/ahmed-osama-68123637a</b>
+            </a>
           </aside>
         </div>
       </section>
@@ -175,7 +203,7 @@
       <span>Cairo · Flutter · Android</span>
     </footer>
 
-    <script src="js/content.js"></script>
-    <script src="js/app.js"></script>
+    <script src="js/content.js?v=copy5"></script>
+    <script src="js/app.js?v=motion1"></script>
   </body>
 </html>
