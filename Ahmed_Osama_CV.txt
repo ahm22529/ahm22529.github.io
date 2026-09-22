@@ -25,30 +25,30 @@ Cairo, Egypt | June 2024 – November 2025
 
 Nofal SEO — Flutter Developer
 Egypt | 2023 – May 2024
-- Flutter developer on a 4-person team shipping production apps to Google Play.
+- Shipped 4 production apps to Google Play.
 - Owned Pusher realtime and Payments on most apps; owned live tracking on the ride-hailing product (SEDA / SEDA Driver).
 
 SELECTED PROJECTS
 
-SEDA — Flutter · Nofal SEO · Google Play
-- Owned live tracking on the passenger app and on SEDA Driver (matching and realtime location).
-- Owned Payments and integrated Paymob for ride checkout.
+SEDA — Flutter · Nofal SEO · Google Play · 1K+ downloads
+- My role: owned live tracking on passenger + SEDA Driver (1K+ downloads; matching and realtime location).
+- My role: owned Payments and Paymob checkout.
 
 MyFawry — Android (Kotlin) · Fawry · 10M+ Play Store installs · 170K+ reviews
-- Added new payment services in a large Android team on a national payments super-app.
-- Improved performance and worked production APIs and sockets.
+- My role: added payment services in a large Android team on a national payments super-app.
+- My role: improved performance and worked production APIs and sockets.
 
-Artistic Theatre House (البيت الفني للمسرح) — Flutter · Nofal SEO · Google Play
-- Owned Firebase Auth for login and the account flow.
-- Owned notifications and video playback for shows, listings, and booking.
+Artistic Theatre House (البيت الفني للمسرح) — Flutter · Nofal SEO · Google Play · 10K+ downloads
+- My role: owned Firebase Auth for login and the account flow.
+- My role: owned notifications and video for shows, listings, and booking.
 
 Sky Academy — Flutter · Nofal SEO · Google Play
-- Built course content screens, the learning flow, and notifications.
-- Owned the release gate: blocked anything from going live on the store until I checked it.
+- My role: built course screens, the learning flow, and notifications.
+- My role: owned the release gate — no store release until I checked it.
 
-RAWA LIVE — Flutter lead · Glitch Fix · Google Play
-- Flutter lead: distributed tasks, owned Architecture, and owned publishing to Google Play and App Store.
-- Built platform channels between Flutter and Kotlin. Owned Agora, sockets, background services, and Sentry after release.
+RAWA LIVE — Flutter lead · Glitch Fix · Google Play · 1K+ downloads
+- My role: Flutter lead — tasks, Architecture, and publishing to Google Play and App Store (5 apps).
+- My role: Flutter ↔ Kotlin channels; owned Agora, sockets, background services, and Sentry after release.
 
 EDUCATION
 B.Sc., Faculty of Electronic Engineering | 2020 – 2025

@@ -44,7 +44,7 @@ const I18N = {
     experience: {
       kicker: "Path",
       title: "How the stack got serious.",
-      sub: "Junior Flutter on a 4-person team. Android at Fawry. Now I set the Architecture and run delivery.",
+      sub: "Junior Flutter at Nofal SEO — we shipped 4 apps. Android at Fawry. Now I set the Architecture and run delivery.",
     },
     skills: {
       kicker: "Toolkit",
@@ -53,8 +53,8 @@ const I18N = {
     about: {
       kicker: "About",
       title: "Grew up in production, not in tutorials.",
-      p1: "I started at Nofal SEO in 2023 as a Flutter developer on a 4-person team. We shipped 4 production apps. I owned Pusher realtime and Payments on most of them, and live tracking on the ride-hailing product.",
-      p2: "In 2024 I joined Fawry as an Android developer. I worked on MyFawry: improved existing flows and added new services in a national-scale payments app. I left in November 2025.",
+      p1: "I started at Nofal SEO in 2023 as a Flutter developer. We shipped 4 production apps. My role: I owned Pusher realtime and Payments on most of them, and live tracking on the ride-hailing product.",
+      p2: "In 2024 I joined Fawry as an Android developer. My role on MyFawry (10M+ Play Store installs, 170K+ reviews): I added payment services, improved performance, and worked APIs and sockets. I left in November 2025.",
       p3: "Since December 2025 I have been at Glitch Fix. I own the Flutter process and the Architecture. I was responsible for publishing 5 apps to Google Play. I distribute tasks, run Agile, handle sockets, added Sentry after release, and own platform channels for Android and iOS.",
     },
     contact: {
@@ -106,7 +106,7 @@ const I18N = {
     experience: {
       kicker: "المسار",
       title: "من التيم الصغير لحد ما بقيت بحط الـ Architecture.",
-      sub: "Junior Flutter في تيم من 4. Android في Fawry. دلوقتي بحط Architecture وأدير Delivery.",
+      sub: "Junior Flutter في Nofal SEO — رفعنا 4 تطبيقات. Android في Fawry. دلوقتي بحط Architecture وأدير Delivery.",
     },
     skills: {
       kicker: "Toolkit",
@@ -115,8 +115,8 @@ const I18N = {
     about: {
       kicker: "عني",
       title: "كبرت جوّه الـ production، مش جوّه الكورسات.",
-      p1: "بدأت في Nofal SEO سنة 2023 Flutter Developer في تيم من 4 أفراد. رفعنا 4 تطبيقات production. كنت مسؤول في معظمها عن Pusher و Payments، وعن tracking في تطبيق التوصيل.",
-      p2: "سنة 2024 رحت Fawry Android Developer. اشتغلت على MyFawry: حسّنا الـ flows وضفنا services جديدة في تطبيق Payments قومي. سبت الشركة نوفمبر 2025.",
+      p1: "بدأت في Nofal SEO سنة 2023 Flutter Developer. رفعنا 4 تطبيقات. دوري: كنت مسؤول في معظمها عن Pusher و Payments، وعن tracking في تطبيق التوصيل.",
+      p2: "سنة 2024 رحت Fawry Android Developer. دوري على MyFawry (10M+ تحميل، 170K+ تقييم): ضفت payment services، حسّنت الأداء، واشتغلت APIs و sockets. سبت الشركة نوفمبر 2025.",
       p3: "من ديسمبر 2025 أنا في Glitch Fix. مسؤول عن عملية Flutter وعن Architecture. كنت مسؤول عن نشر 5 تطبيقات على Google Play. بوزّع الـ tasks، بأدير Agile، بتعامل مع sockets، ضفت Sentry بعد الـ release، ومسؤول عن platform channels بين Flutter و Android و Flutter و iOS.",
     },
     contact: {
@@ -148,15 +148,15 @@ const APPS = [
     tags: ["Kotlin", "Android", "Payments"],
     en: {
       name: "MyFawry",
-      role: "Android Developer · Fawry",
+      role: "Android Developer · Fawry · 10M+ installs",
       blurb:
-        "Egypt’s everyday payments app — bills, recharge, and banking services. Native Android: we improved the app and added new services under production traffic.",
+        "My role: I added payment services, improved performance, and worked APIs and sockets in a large Android team. 10M+ Play Store installs, 170K+ reviews.",
     },
     ar: {
       name: "MyFawry",
-      role: "Android Developer · Fawry",
+      role: "Android Developer · Fawry · 10M+ installs",
       blurb:
-        "تطبيق Payments اليومي في مصر — فواتير، شحن رصيد، وخدمات بنكية. Android native: حسّنا التطبيق وضفنا services جديدة تحت production traffic.",
+        "دوري: ضفت payment services، حسّنت الأداء، واشتغلت APIs و sockets في تيم Android كبير. 10M+ تحميل، 170K+ تقييم.",
     },
   },
   {
@@ -168,13 +168,15 @@ const APPS = [
     tags: ["Flutter", "Payments", "Booking"],
     en: {
       name: "Artistic Theatre House",
-      role: "Flutter · Nofal SEO",
-      blurb: "Theatre discovery and seat booking. Payment gateway work on the ticket flow.",
+      role: "Flutter · Nofal SEO · 10K+ downloads",
+      blurb:
+        "My role: I owned Firebase Auth for login, plus notifications and video playback for shows, listings, and booking. 10K+ Play Store downloads.",
     },
     ar: {
       name: "Artistic Theatre House",
-      role: "Flutter · Nofal SEO",
-      blurb: "عروض المسارح وحجز الكراسي. التعامل مع payment gateway في فلو التذاكر.",
+      role: "Flutter · Nofal SEO · 10K+ downloads",
+      blurb:
+        "دوري: كنت مسؤول عن Firebase Auth للّوجين، وعن notifications وتشغيل الفيديو للعروض والحجز. 10K+ تحميل على Google Play.",
     },
   },
   {
@@ -186,13 +188,15 @@ const APPS = [
     tags: ["Flutter", "Pusher", "Payments"],
     en: {
       name: "SEDA",
-      role: "Flutter · Nofal SEO",
-      blurb: "Ride-hailing passenger app. I owned Pusher realtime and Payments with the team.",
+      role: "Flutter · Nofal SEO · 1K+ downloads",
+      blurb:
+        "My role: I owned live tracking on the passenger app and SEDA Driver, plus Payments with Paymob. 1K+ Play Store downloads.",
     },
     ar: {
       name: "SEDA",
-      role: "Flutter · Nofal SEO",
-      blurb: "تطبيق راكب لتوصيل الأفراد. كنت مسؤول عن Pusher realtime و Payments مع التيم.",
+      role: "Flutter · Nofal SEO · 1K+ downloads",
+      blurb:
+        "دوري: كنت مسؤول عن live tracking في تطبيق الراكب و SEDA Driver، وعن Payments مع Paymob. 1K+ تحميل على Google Play.",
     },
   },
   {
@@ -204,13 +208,15 @@ const APPS = [
     tags: ["Flutter", "Tracking", "Pusher"],
     en: {
       name: "SEDA Driver",
-      role: "Flutter · Nofal SEO",
-      blurb: "Driver app for SEDA. I owned live tracking, matching, and realtime updates.",
+      role: "Flutter · Nofal SEO · 1K+ downloads",
+      blurb:
+        "My role: I owned live tracking, matching, and realtime location on the driver app. 1K+ Play Store downloads.",
     },
     ar: {
       name: "SEDA Driver",
-      role: "Flutter · Nofal SEO",
-      blurb: "تطبيق السائق لـ SEDA. كنت مسؤول عن live tracking والـ matching و realtime updates.",
+      role: "Flutter · Nofal SEO · 1K+ downloads",
+      blurb:
+        "دوري: كنت مسؤول عن live tracking والـ matching وموقع السواق realtime. 1K+ تحميل على Google Play.",
     },
   },
   {
@@ -243,12 +249,14 @@ const APPS = [
     en: {
       name: "OtlobGas",
       role: "Flutter · Nofal SEO",
-      blurb: "Order a gas cylinder from the nearest distributor. Payments and realtime on a 4-person Flutter team.",
+      blurb:
+        "My role: Payments and realtime on the gas-cylinder ordering flow. One of 4 apps we shipped at Nofal SEO.",
     },
     ar: {
       name: "OtlobGas",
       role: "Flutter · Nofal SEO",
-      blurb: "اطلب أسطوانة غاز من أقرب موزع. Payments و realtime في تيم Flutter من 4 أفراد.",
+      blurb:
+        "دوري: Payments و realtime في فلو طلب أسطوانة الغاز. من الـ 4 تطبيقات اللي رفعناهم في Nofal SEO.",
     },
   },
   {
@@ -262,13 +270,13 @@ const APPS = [
       name: "Sky Academy",
       role: "Flutter · Nofal SEO",
       blurb:
-        "Educational app for professional courses and training paths. Flutter work on content, learning flow, and notifications.",
+        "My role: I built course screens, the learning flow, and notifications, and I owned the release gate — nothing went live on the store until I checked it.",
     },
     ar: {
       name: "Sky Academy",
       role: "Flutter · Nofal SEO",
       blurb:
-        "تطبيق تعليمي لـ courses ومسارات تدريب. شغل Flutter على المحتوى، فلو التعلم، و notifications.",
+        "دوري: بنيت شاشات الـ courses وفلو التعلم و notifications، وكنت مسؤول عن بوابة الـ release — مفيش حاجة بتنزل الستور غير لما أراجعها.",
     },
   },
   {
@@ -336,15 +344,15 @@ const APPS = [
     tags: ["Flutter", "Sockets", "Sentry", "Agile"],
     en: {
       name: "RAWA LIVE",
-      role: "Flutter lead · Glitch Fix",
+      role: "Flutter lead · Glitch Fix · 1K+ downloads",
       blurb:
-        "Rooms, gifts, games, and realtime sockets. I set the Flutter Architecture, handled sockets, distributed tasks, and added Sentry after release.",
+        "My role: Flutter lead — Architecture, task distribution, Flutter ↔ Kotlin channels, Agora, sockets, background services, Sentry, and publishing to Play + App Store. 1K+ Play Store downloads.",
     },
     ar: {
       name: "RAWA LIVE",
-      role: "Flutter lead · Glitch Fix",
+      role: "Flutter lead · Glitch Fix · 1K+ downloads",
       blurb:
-        "Rooms، gifts، games، و realtime sockets. حطيت Flutter Architecture، sockets، توزيع الـ tasks، و Sentry بعد الـ release.",
+        "دوري: Flutter lead — Architecture، توزيع الـ tasks، channels بين Flutter و Kotlin، Agora، sockets، background services، Sentry، ونشر Play و App Store. 1K+ تحميل.",
     },
   },
 ];
@@ -356,10 +364,9 @@ const EXPERIENCE = [
       role: "Flutter Lead",
       dates: "Dec 2025 — Present",
       points: [
-        "Owned the Flutter Architecture and the delivery process across the company’s apps.",
-        "Owned Google Play publishing for 5 apps: sockets, task distribution, and Agile.",
-        "Added Sentry so we can monitor crashes after Google Play release.",
-        "Owned Flutter platform channels for Android and iOS.",
+        "My role: Flutter lead — I owned Architecture and delivery across the company’s apps.",
+        "My role: I owned publishing to Google Play and App Store for 5 production apps.",
+        "My role: I owned sockets, Agile task distribution, Sentry after release, and Flutter ↔ Kotlin platform channels.",
       ],
     },
     ar: {
@@ -367,10 +374,9 @@ const EXPERIENCE = [
       role: "Flutter Lead",
       dates: "ديسمبر 2025 — الآن",
       points: [
-        "مسؤول عن Flutter Architecture وعن عملية Delivery في تطبيقات الشركة.",
-        "كنت مسؤول عن نشر 5 تطبيقات على Google Play: sockets، توزيع الـ tasks، و Agile.",
-        "ضفت Sentry عشان نتابع الـ crashes بعد الـ release على Google Play.",
-        "مسؤول عن platform channels بين Flutter و Android و Flutter و iOS.",
+        "دوري: Flutter lead — كنت مسؤول عن Architecture و Delivery في تطبيقات الشركة.",
+        "دوري: كنت مسؤول عن نشر 5 تطبيقات على Google Play و App Store.",
+        "دوري: sockets، توزيع الـ tasks، Agile، Sentry بعد الـ release، و platform channels بين Flutter و Kotlin.",
       ],
     },
   },
@@ -380,8 +386,8 @@ const EXPERIENCE = [
       role: "Android Developer",
       dates: "Jun 2024 — Nov 2025",
       points: [
-        "Worked on MyFawry, Egypt’s consumer payments super-app.",
-        "Improved existing flows and added new services in a high-traffic production Android app.",
+        "My role: Android (Kotlin) on MyFawry — 10M+ Play Store installs, 170K+ reviews.",
+        "My role: I added payment services, improved performance, and worked production APIs and sockets.",
       ],
     },
     ar: {
@@ -389,8 +395,8 @@ const EXPERIENCE = [
       role: "Android Developer",
       dates: "يونيو 2024 — نوفمبر 2025",
       points: [
-        "اشتغلت على MyFawry، super-app الـ Payments للمستخدم في مصر.",
-        "حسّنا الـ flows الحالية وضفنا services جديدة في تطبيق Android تحت traffic عالي.",
+        "دوري: Android (Kotlin) على MyFawry — 10M+ تحميل، 170K+ تقييم.",
+        "دوري: ضفت payment services، حسّنت الأداء، واشتغلت APIs و sockets.",
       ],
     },
   },
@@ -400,9 +406,9 @@ const EXPERIENCE = [
       role: "Flutter Developer",
       dates: "2023 — May 2024",
       points: [
-        "Shipped 4 production Flutter apps.",
-        "Owned Pusher realtime and Payments integrations across most of those apps.",
-        "Owned live tracking on the ride-hailing product (SEDA / SEDA Driver).",
+        "My role: Flutter developer — we shipped 4 production apps to Google Play.",
+        "My role: I owned Pusher realtime and Payments on most of those apps.",
+        "My role: I owned live tracking on SEDA / SEDA Driver (1K+ downloads each).",
       ],
     },
     ar: {
@@ -410,9 +416,9 @@ const EXPERIENCE = [
       role: "Flutter Developer",
       dates: "2023 — مايو 2024",
       points: [
-        "رفعنا 4 تطبيقات.",
-        "كنت مسؤول في معظم التطبيقات عن Pusher و Payments.",
-        "كنت مسؤول عن live tracking في منتج التوصيل (SEDA / SEDA Driver).",
+        "دوري: Flutter Developer — رفعنا 4 تطبيقات على Google Play.",
+        "دوري: كنت مسؤول في معظم التطبيقات عن Pusher و Payments.",
+        "دوري: كنت مسؤول عن live tracking في SEDA / SEDA Driver (كل واحد 1K+ تحميل).",
       ],
     },
   },
